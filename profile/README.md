@@ -3,7 +3,7 @@
 If you value it, consider supporting us, we appreciate it! :heart:
 
 [![Open Collective backers and sponsors](https://img.shields.io/opencollective/all/golangci-lint?logo=opencollective&style=for-the-badge)](https://opencollective.com/golangci-lint)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor-blue?style=for-the-badge)](https://github.com/sponsors/ldez)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/golangci?logo=github&style=for-the-badge)](https://github.com/sponsors/golangci)
 [![Linter Authors](https://img.shields.io/badge/Linter-Authors-blue?style=for-the-badge)](https://golangci-lint.run/product/thanks/)
 
 [![Visit our documentation](https://img.shields.io/badge/documentation-5865F2?style=for-the-badge&logo=firefox&logoColor=white)](https://golangci-lint.run/)
