@@ -2,8 +2,8 @@
 
 If you value it, consider supporting us, we appreciate it! :heart:
 
-<!-- [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Donate-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/golangci) -->
 [![Open Collective backers and sponsors](https://img.shields.io/badge/OpenCollective-Donate-blue?logo=opencollective&style=for-the-badge)](https://opencollective.com/golangci-lint)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Donate-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/golangci)
 [![Linter Authors](https://img.shields.io/badge/Linter_Authors-Donate-blue?style=for-the-badge)](https://golangci-lint.run/product/thanks/)
 
 [![Visit our documentation](https://img.shields.io/badge/documentation-5865F2?style=for-the-badge&logo=firefox&logoColor=white)](https://golangci-lint.run/)
